@@ -1,0 +1,3 @@
+Idea -> Prompt Generator -> Script -> Image AI -> QA -> Publish
+             ^                                      |
+             |--------------------------------------|

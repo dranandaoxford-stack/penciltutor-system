@@ -1,0 +1,10 @@
+{
+  "name": "Comic Automation Pipeline",
+  "nodes": [
+    {"type": "trigger", "name": "New Strip Request"},
+    {"type": "openai", "name": "Generate Script"},
+    {"type": "image_ai", "name": "Generate Panels"},
+    {"type": "qa", "name": "Science Check"},
+    {"type": "cms", "name": "Publish to Penciltutor"}
+  ]
+}
